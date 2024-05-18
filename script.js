@@ -1,4 +1,4 @@
-// URL till din backend-webbtjänst
+// URL till backend-webbtjänst
 const apiUrl = 'http://localhost:3002/workexperience';
 
 // Funktion för att ta bort arbetslivserfarenhet
